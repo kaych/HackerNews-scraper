@@ -1,0 +1,2 @@
+class NoLinkError < StandardError
+end
